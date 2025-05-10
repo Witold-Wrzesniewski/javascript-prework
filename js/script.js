@@ -64,5 +64,5 @@ function playGame() {
     }
     else printMessage('Wprowdź liczbę od 1 do 3!');
 }
-document.addEventListener('DOMContentLoaded', playGame);
-//playGame();
+//document.addEventListener('DOMContentLoaded', playGame);
+playGame();
